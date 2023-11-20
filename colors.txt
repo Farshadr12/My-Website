@@ -1,0 +1,8 @@
+#F8F7F2 back
+#3A4F59 text
+#FF2B44 main red
+#FFCD2B yellow bk
+#AA565F darker red
+#2BBAFF blue card
+#2BFF59 green card
+#FF6B38 orange card
